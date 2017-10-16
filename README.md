@@ -37,4 +37,14 @@ YouTube Link:
 ---------------------------
 [Campus2Corporate][1]
 
+-------------------
+References
+--------------------
+We used open source libraries for some animation in our application. Here are the references to them.
+>- https://github.com/HubSpot/odometer
+>- https://bootstrapmade.com
+
+
 [1]: http://frbkc.custhelp.com/ci/documents/detail/2/2017codeathonhome
+
+
