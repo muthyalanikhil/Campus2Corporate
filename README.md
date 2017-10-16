@@ -10,6 +10,8 @@ The user can analyses his Behavioral skills by clicking on the icon.
 >- Based on the result, this application will provide few tips for the student in order to improve his Behavioral skills. 
 >- Future Plan: As of time constraint, we cannot able to complete our whole thought in coding. Therefore, our plan is:
 >- If the user feels the questions are good and the tips are helpful, he can contact us and request for more service where we will help him by conducting another exam or interview and can tell his improvement over certain period. 
+
+---------------------------------
 Managerial skills:
 ------------------------
  The user can analyses his Managerial skills by clicking on the icon.
@@ -17,11 +19,14 @@ Managerial skills:
 >- Based on the result, this application will provide few tips for the student in order to improve his Managerial skills. 
 >- Future Plan: As of time constraint, we cannot able to complete our whole thought in coding. Therefore, our plan is:
 >- If the user feels the questions are good and the tips are helpful, he can contact us and request for more service where we will help him by conducting another exam or interview and can tell his improvement over certain period.
+
+--------------------------------
 Technical skills:
 --------------------------
 >- We believe technical skills related to individual domain. Students of any domain can enter into corporate field by using this website.
 >- User can contact us by providing their domain interests. Then we will provide the required material for improving their skills.
 
+--------------------
 Our services:
 ---------------------------
 >- We make all our customers learn professional etiquette and turn them to be a perfect professional.
