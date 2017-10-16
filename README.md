@@ -32,3 +32,9 @@ Our services:
 >- We make all our customers learn professional etiquette and turn them to be a perfect professional.
 >- We help our customers to increase their ability to manage better than they are by sharpening their skills.
 >- We conduct technical round interviews and brush up all the technical skills of our customers.
+------------------------
+YouTube Link:
+---------------------------
+[Campus2Corporate][1]
+
+[1]: http://frbkc.custhelp.com/ci/documents/detail/2/2017codeathonhome
