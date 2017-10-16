@@ -45,7 +45,7 @@
                                 <p class="subtitle">Learn to be a perfect professional</p>
                                 <div class="avatar">
                                     <a href="Behavioural.aspx">
-                                        <img src="img/team/1.jpg" alt="" class="img-responsive img-circle" />
+                                        <img src="img/team/1.png" alt="" class="img-responsive img-circle" />
                                     </a>
                                 </div>
                             </div>
@@ -60,7 +60,7 @@
                                 <p class="subtitle">Be a perfect manager</p>
                                 <div class="avatar">
                                     <a href="Managerial.aspx">
-                                        <img src="img/team/2.jpg" alt="" class="img-responsive img-circle" />
+                                        <img src="img/team/2.png" alt="" class="img-responsive img-circle" />
                                     </a>
                                 </div>
                             </div>
@@ -75,7 +75,7 @@
                                 <p class="subtitle">Brush up your skills</p>
                                 <div class="avatar">
                                     <a href="Technical.aspx">
-                                        <img src="img/team/3.jpg" alt="" class="img-responsive img-circle" /></a>
+                                        <img src="img/team/3.png" alt="" class="img-responsive img-circle" /></a>
                                 </div>
                             </div>
                         </div>
